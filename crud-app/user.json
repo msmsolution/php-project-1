@@ -1,0 +1,56 @@
+[
+    {
+        "student_name": "Kindness Princewill",
+        "registration": "PHP102",
+        "grade": "8",
+        "classroom": "PHP"
+    },
+    {
+        "student_name": "Simon Bande",
+        "registration": "PHP103",
+        "grade": "7",
+        "classroom": "English Language"
+    },
+    {
+        "student_name": "Kingsley Nyam",
+        "registration": "MTH300",
+        "grade": "9",
+        "classroom": "Mathematics"
+    },
+    {
+        "student_name": "Stephen Mangai",
+        "registration": "C200",
+        "grade": "8",
+        "classroom": "C++"
+    },
+    {
+        "student_name": "Raul of Jagaad",
+        "registration": "SYM109",
+        "grade": "9",
+        "classroom": "Symphony"
+    },
+    {
+        "student_name": "Allen John",
+        "registration": "J302",
+        "grade": "3",
+        "classroom": "JavaScript"
+    },
+    {
+        "student_name": "Dug Norman",
+        "registration": "CS107",
+        "grade": "6",
+        "classroom": "MathLab"
+    },
+    {
+        "student_name": "Charles Goodnight",
+        "registration": "Chem108",
+        "grade": "5",
+        "classroom": "Chemistry"
+    },
+    {
+        "student_name": "Libic Asimi",
+        "registration": "Bio203",
+        "grade": "5",
+        "classroom": "Bio-Statistics"
+    }
+]
